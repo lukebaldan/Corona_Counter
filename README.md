@@ -4,6 +4,17 @@ This is a simple project based on an ESP8266 and 16x2 LCD display to show COVID1
 The display cycles between globval stats and country stats, updating by default every 30 seconds.
 The sketch has been designed to easily interwork with other API's.
 
+## Prequisites
+
+The following libraries are needed made available to the Arduino IDE:
+
+```
+#include <ArduinoJson.h>
+#include <ESP8266WiFi.h>
+#include <ESP8266HTTPClient.h>
+#include <LiquidCrystal_I2C.h>
+```
+
 ## Usage
 
 Modify the variables as required in the  sectoin labelled: 'ONLY MODIFY THESE VALUE'
