@@ -17,7 +17,7 @@ The following libraries are needed made available to the Arduino IDE:
 
 ## Usage
 
-Modify the variables as required in the  sectoin labelled: 'ONLY MODIFY THESE VALUE'
+Modify the variables as required in the section labelled: 'ONLY MODIFY THESE VALUE'
 Key parameters include:
 
 ```
