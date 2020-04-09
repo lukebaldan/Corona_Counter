@@ -6,7 +6,7 @@ The sketch has been designed to easily interwork with other API's.
 
 ## Prequisites
 
-The following libraries are needed made available to the Arduino IDE:
+The following libraries are needed and made available to the Arduino IDE:
 
 ```
 #include <ArduinoJson.h>
